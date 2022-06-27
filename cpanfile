@@ -91,6 +91,7 @@ on 'test' => sub {
   requires 'IO::Capture::Stdout::Extended';
   requires 'IO::Capture::Stderr::Extended';
   requires 'HTTP::CookieJar::LWP';
+  requires 'Devel::Cover';
 };
 
 on 'develop' => sub {
@@ -103,4 +104,5 @@ on 'develop' => sub {
   requires 'Hash::SafeKeys';  # Perl::LanguageServer dependency
   requires 'Perl::Tidy';
   requires 'Perl::Critic';
+  requires 'Devel::Cover';
 }
