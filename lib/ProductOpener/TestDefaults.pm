@@ -50,4 +50,21 @@ use vars @EXPORT_OK;
 	type => "add"
 );
 
+%default_product_form = (
+	code => '200000000000',
+	lang => "en",
+	product_name => "default-test",
+	generic_name => "generic-name-test",
+	quantity => "1 ml",
+	link => "na",
+	expiration_date => "test",
+	ingredients_text => "water",
+	origin => "spain",
+	serving_size => "1ml",
+	packaging_text => "na",
+	action => "process",
+	type => "add",
+	".submit" => "submit"
+);
+
 1;
