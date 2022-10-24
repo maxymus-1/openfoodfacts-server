@@ -93,6 +93,7 @@ Maps from GS1 to OFF
 my %unknown_entries_in_gs1_maps = ();
 
 # see https://www.gs1.fr/content/download/2265/17736/version/3/file/FicheProduit3.1.9_PROFIL_ParfumerieSelective_20190523.xlsx
+# https://www.gs1gt.org/wp-content/uploads/2020/01/GDSN_Trade_Item_Implementation_Guide.pdf
 
 %gs1_maps = (
 
@@ -245,7 +246,7 @@ my %unknown_entries_in_gs1_maps = ();
 		"CT" => "Conteneur",
 		"CU" => "Pot",
 		"EN" => "Enveloppe",
-		"JR" => "Bocal",
+		"JR" => "Pot",
 		"PO" => "Poche",
 		"PUG" => "Sac de transport",
 		"TU" => "Tube",
