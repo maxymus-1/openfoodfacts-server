@@ -1467,7 +1467,7 @@ nl:Was
 pt:Papel cera, papel de cera
 wikidata:en: Q124695
 
-en:Wood
+en:Wood, wooden
 bg:Дърво
 da:Træ
 de:Holz

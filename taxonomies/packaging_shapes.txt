@@ -302,7 +302,7 @@ description:nl:Een cilindervormig afgesloten blikken vaatje voor dranken
 # Note: "canned", "conserve" : already used in the preservation taxonomy
 <en:can
 en:Food can, tin, tin can
-bg:Консерва
+bg:консерва за храна
 de:Konservendose
 es:Lata de comida
 fr:Boîte de conserve, boîtes de conserves
