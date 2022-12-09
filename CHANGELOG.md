@@ -1,5 +1,42 @@
 # Changelog
 
+## [2.5.0](https://github.com/openfoodfacts/openfoodfacts-server/compare/v2.4.0...v2.5.0) (2022-12-09)
+
+
+### Features
+
+* Add more actions ([#7304](https://github.com/openfoodfacts/openfoodfacts-server/issues/7304)) ([b68735b](https://github.com/openfoodfacts/openfoodfacts-server/commit/b68735ba9c7a04ddffb115b322755c4adecd0f77))
+* associated packagings ([#7756](https://github.com/openfoodfacts/openfoodfacts-server/issues/7756)) ([be9391f](https://github.com/openfoodfacts/openfoodfacts-server/commit/be9391f4e094d37bc81c6ee171f9f051c602ba67))
+* Update AGRIBALYSE to version 3.1 ([9a59883](https://github.com/openfoodfacts/openfoodfacts-server/commit/9a598836723a3590d63466c96da394f38679d38b))
+
+
+### Bug Fixes
+
+* donation banner tweaks ([#7703](https://github.com/openfoodfacts/openfoodfacts-server/issues/7703)) ([d84b17c](https://github.com/openfoodfacts/openfoodfacts-server/commit/d84b17cdeb4a5b3cdef07d1d251ab04833a7dbbe))
+* make home first in the nav bar ([#7780](https://github.com/openfoodfacts/openfoodfacts-server/issues/7780)) ([1295499](https://github.com/openfoodfacts/openfoodfacts-server/commit/12954993f07e7299ee279687b283d60cd8d45672))
+* Small improvements to packaging edition ([#7788](https://github.com/openfoodfacts/openfoodfacts-server/issues/7788)) ([df30876](https://github.com/openfoodfacts/openfoodfacts-server/commit/df30876e73d128cae09f698ddeb1e5463396bab2))
+* Update common.pot ([#7810](https://github.com/openfoodfacts/openfoodfacts-server/issues/7810)) ([55fbdfe](https://github.com/openfoodfacts/openfoodfacts-server/commit/55fbdfe20cc4d525ab6547f18c88896507acbd84))
+
+
+### Taxonomy
+
+* add Polish translations for caramel and safflower ([#7824](https://github.com/openfoodfacts/openfoodfacts-server/issues/7824)) ([5f68ae8](https://github.com/openfoodfacts/openfoodfacts-server/commit/5f68ae80b1840300286361696f880e10c194f16f))
+* Bulgarian additions ([#7800](https://github.com/openfoodfacts/openfoodfacts-server/issues/7800)) ([9ae90bc](https://github.com/openfoodfacts/openfoodfacts-server/commit/9ae90bc236fa4e7203b41b5623e03073cf0e06de))
+* Correction Agribalyse additions ([#7790](https://github.com/openfoodfacts/openfoodfacts-server/issues/7790)) ([bcff1a5](https://github.com/openfoodfacts/openfoodfacts-server/commit/bcff1a5392d43d53f26aeae1a67cf3d373a6dddb))
+* Corrections creamy puddings ([#7763](https://github.com/openfoodfacts/openfoodfacts-server/issues/7763)) ([3f5dfa9](https://github.com/openfoodfacts/openfoodfacts-server/commit/3f5dfa979007059c5be2a68b17d43c42fd142137))
+* fix typo for the Shrimp category ([#7807](https://github.com/openfoodfacts/openfoodfacts-server/issues/7807)) ([b82ae3c](https://github.com/openfoodfacts/openfoodfacts-server/commit/b82ae3c16a3cc1b70d482b902d2e4b4364569283))
+* Lassi ([#7784](https://github.com/openfoodfacts/openfoodfacts-server/issues/7784)) ([6e407c0](https://github.com/openfoodfacts/openfoodfacts-server/commit/6e407c0bded4c7e51cf1c7b6eef375f4420d4729))
+* Lithuanian categories, allergens, ingredients ([#7802](https://github.com/openfoodfacts/openfoodfacts-server/issues/7802)) ([d77ed91](https://github.com/openfoodfacts/openfoodfacts-server/commit/d77ed9174ebe47355f1bff2244ba53fd1fe1c449))
+* Lithuanian categories: soups edition ([#7765](https://github.com/openfoodfacts/openfoodfacts-server/issues/7765)) ([5f55c4d](https://github.com/openfoodfacts/openfoodfacts-server/commit/5f55c4d3290cac7c83929a718a779803747419c5))
+* Meats and their products ([#7647](https://github.com/openfoodfacts/openfoodfacts-server/issues/7647)) ([6b624e8](https://github.com/openfoodfacts/openfoodfacts-server/commit/6b624e884e26a52b1398f42bc71172a9b32d2987))
+* New fr ingredients ([#7671](https://github.com/openfoodfacts/openfoodfacts-server/issues/7671)) ([5039b87](https://github.com/openfoodfacts/openfoodfacts-server/commit/5039b8711f75a1e53b6108a0cd9f8109d16320fe))
+* some Spanish and Catalan translations ([#7759](https://github.com/openfoodfacts/openfoodfacts-server/issues/7759)) ([d27810a](https://github.com/openfoodfacts/openfoodfacts-server/commit/d27810a1ec86f14c13fb3424d6a04039e597f3ea))
+
+
+### Translations
+
+* New Crowdin translations to review and merge ([#7815](https://github.com/openfoodfacts/openfoodfacts-server/issues/7815)) ([647ca0b](https://github.com/openfoodfacts/openfoodfacts-server/commit/647ca0bfada7e07b36a6b4172924c5cc08fe1446))
+
 ## [2.4.0](https://github.com/openfoodfacts/openfoodfacts-server/compare/v2.3.0...v2.4.0) (2022-11-30)
 
 
