@@ -6104,7 +6104,7 @@ msgstr ""
 # this is not used yet
 msgctxt "action_add_portion_size"
 msgid "Add portion size"
-msgstr ""
+msgstr "Lägg till portionsstorlek"
 
 # this is not used yet
 msgctxt "action_add_ingredients_image"

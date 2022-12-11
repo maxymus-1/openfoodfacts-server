@@ -2361,7 +2361,7 @@ msgstr "Együttműködésen alapuló, ingyenes és nyílt adatbázisa az élelmi
 
 msgctxt "site_name"
 msgid "Open Food Facts"
-msgstr "Open Food Facts (Nyílt Élelmiszer Tények)"
+msgstr ""
 
 msgctxt "logo_site_name"
 msgid "Open Food Facts logo"
